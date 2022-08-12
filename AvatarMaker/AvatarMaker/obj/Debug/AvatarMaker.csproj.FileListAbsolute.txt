@@ -1,0 +1,11 @@
+C:\Users\Test\Code\C#\Exercicios\AvatarMaker\AvatarMaker\bin\Debug\AvatarMaker.exe.config
+C:\Users\Test\Code\C#\Exercicios\AvatarMaker\AvatarMaker\bin\Debug\AvatarMaker.exe
+C:\Users\Test\Code\C#\Exercicios\AvatarMaker\AvatarMaker\bin\Debug\AvatarMaker.pdb
+C:\Users\Test\Code\C#\Exercicios\AvatarMaker\AvatarMaker\obj\Debug\AvatarMaker.csproj.AssemblyReference.cache
+C:\Users\Test\Code\C#\Exercicios\AvatarMaker\AvatarMaker\obj\Debug\AvatarMaker.Form1.resources
+C:\Users\Test\Code\C#\Exercicios\AvatarMaker\AvatarMaker\obj\Debug\AvatarMaker.Properties.Resources.resources
+C:\Users\Test\Code\C#\Exercicios\AvatarMaker\AvatarMaker\obj\Debug\AvatarMaker.csproj.GenerateResource.cache
+C:\Users\Test\Code\C#\Exercicios\AvatarMaker\AvatarMaker\obj\Debug\AvatarMaker.csproj.CoreCompileInputs.cache
+C:\Users\Test\Code\C#\Exercicios\AvatarMaker\AvatarMaker\obj\Debug\AvatarMaker.exe
+C:\Users\Test\Code\C#\Exercicios\AvatarMaker\AvatarMaker\obj\Debug\AvatarMaker.pdb
+C:\Users\Test\Code\C#\Exercicios\AvatarMaker\AvatarMaker\obj\Debug\AvatarMaker.Form2.resources
